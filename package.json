@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/devopsjess/first-node-application-wy/issues"
   },
-  "homepage": "https://github.com/devopsjess/first-node-application-wy#readme"
+  "homepage": "https://github.com/devopsjess/first-node-application-wy#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
