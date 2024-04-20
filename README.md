@@ -10,3 +10,6 @@ You can skip this step if your image is already built:
 . docker tag node-docker-wutyee:latest 255945442255.dkr.ecr.us-east-1.amazonaws.com/node-docker-wutyee:latest
 4. Run the following command to push this image to your newly created AWS repository:
 . docker push 255945442255.dkr.ecr.us-east-1.amazonaws.com/node-docker-wutyee:latest
+
+
+
