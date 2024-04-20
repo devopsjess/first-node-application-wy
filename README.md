@@ -6,7 +6,7 @@ Note: If you receive an error using the AWS CLI, make sure that you have the lat
 2. Build your Docker image using the following command. For information on building a Docker file from scratch see the instructions here 
 You can skip this step if your image is already built:
 
-. docker build -t node-docker-wutyee .
+. docker build -t node-docker-wutyee .<br/>
 3. After the build completes, tag your image so you can push the image to this repository:
 
 . docker tag node-docker-wutyee:latest 255945442255.dkr.ecr.us-east-1.amazonaws.com/node-docker-wutyee:latest
